@@ -21,6 +21,7 @@ public class DrawBullsEyesDebugApp {
 				if (DialogBoxes.askUser(drawCase.getText(), DrawBullsEyesDebugApp.class.getSimpleName(),
 						JOptionPane.QUESTION_MESSAGE, options)) {
 					//pass
+					
 				} else {
 					break;
 				}
